@@ -1,0 +1,11 @@
+Format Example: 
+[type8_idx] [type8_class] ([type30_idx] [type30_class]、..... etc.) 
+
+0 Bicycle (4 Bicycle、5 BicycleWithRider)
+1 Bus (6 Bus)
+2 Motorcycle (15 Motorcycle)
+3 MotorcycleWithRider (13 HeavyMotorcycleWithRiderWithHelmet、16 MotorcycleWithRiderWithHelmet、17 MotorcycleWithRiderWithoutHelmet)
+4 People (1 Adult、2 AdultUnderUmbrella、8 Child、9 ChildUnderUmbrella、11 ConstructionWorker、26 TrafficController)
+5 Sedan (0 Ambulance、19 PoliceCar、21 Sedan)
+6 Taxi (24 Taxi)
+7 Truck (10 ConstructionVehicle、22 SmallTruck、27 TrailerWithCargo、28 TrailerWithoutCargo、29 Truck)
